@@ -1,0 +1,32 @@
+[
+  {
+    "productName": "pen",
+    "price": 1.0,
+    "stocks": 100
+  },
+  {
+    "productName": "pencil",
+    "price": 0.5,
+    "stocks": 200
+  },
+  {
+    "productName": "rubber",
+    "price": 0.7,
+    "stocks": 1000
+  },
+  {
+    "productName": "ruler",
+    "price": 2,
+    "stocks": 100
+  },
+  {
+    "productName": "pencil case",
+    "price": 5,
+    "stocks": 250
+  },
+  {
+    "productName": "highlighter",
+    "price": 1.5,
+    "stocks": 50
+  }
+]
