@@ -10,8 +10,8 @@ Library presented in **Ensuring Information Security by Using Haskell Advanced T
 
 And you can remove files generated during the coompilation as follows:
 
-    rm Security/\*.hi Security/\*.o
-    find . -name '\*.o' -delete
-    find . -name '\*.hi' -delete
+    rm Security/*.hi Security/\*.o
+    find . -name '*.o' -delete
+    find . -name '*.hi' -delete
 
 Benchmarks are based on the application example, so you will need to install the three packages described above.
