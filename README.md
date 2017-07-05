@@ -8,7 +8,7 @@ Library presented in **Ensuring Information Security by Using Haskell's Advanced
     ghc -O --make ./Bench
     ./Bench --output ./bench.html
 
-And you can remove files generated during the coompilation as follows:
+And you can remove files generated during the compilation as follows:
 
     rm Security/*.hi Security/\*.o
     find . -name '*.o' -delete
