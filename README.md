@@ -10,7 +10,7 @@ Library presented in **Ensuring Information Security by Using Haskell's Advanced
 
 And you can remove files generated during the compilation as follows:
 
-    rm Security/*.hi Security/\*.o
+    rm Security/*.hi Security/*.o
     find . -name '*.o' -delete
     find . -name '*.hi' -delete
 
